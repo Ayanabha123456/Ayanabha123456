@@ -13,7 +13,7 @@
 </h1>
 
 ## About
-I am a recent Master's graduate 👨‍🎓 in Computing Science from the University of Glasgow with skills in Full-Stack Web Development 🌐, Data Science 📊 and Game Development 🎮. I am looking for opportunities to kickstart my career in technology and would be glad to connect over LinkedIn. Please enjoy browsing my repositories and I hope you find something worthwhile 😊
+I am a Data Analytics and Business Intelligence professional, who specializes in developing AI-Integrated Cloud applications and is passionate about problem-solving and continuous improvement. I am seeking opportunities in the field of Artificial Intelligence 🤖, Data Science 📊 and Software Development 💻 to advance my career and would be glad to connect over LinkedIn. Please enjoy browsing my repositories and I hope you find something worthwhile 😊
 
 ## Technology Stack
 <div>
@@ -42,6 +42,9 @@ I am a recent Master's graduate 👨‍🎓 in Computing Science from the Univer
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png" title="OpenAI" alt="OpenAI" width="40" height="40"/>&nbsp;
+  <img src="https://msfabric.pl/wp-content/uploads/2022/02/Logo-MS-Fabric-SAMO.png" title="Fabric" alt="Fabric" width="40" height="40"/>&nbsp;
 </div>
 
 ## Statistics
